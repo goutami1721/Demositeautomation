@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-27T00:13:37 IST" name="Default suite" finished-at="2024-03-27T00:13:44 IST" duration-ms="7489">
+    <groups>
+    </groups>
+    <test started-at="2024-03-27T00:13:37 IST" name="Default test" finished-at="2024-03-27T00:13:44 IST" duration-ms="7489">
+      <class name="demositeautomation.datepickerdemo">
+        <test-method signature="datepickerd()[pri:0, instance:demositeautomation.datepickerdemo@70e9c95d]" started-at="2024-03-27T00:13:37 IST" name="datepickerd" finished-at="2024-03-27T00:13:44 IST" duration-ms="7371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- datepickerd -->
+      </class> <!-- demositeautomation.datepickerdemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
